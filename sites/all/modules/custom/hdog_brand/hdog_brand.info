@@ -1,0 +1,12 @@
+name = HandsomeDog Central Brand
+description = Default Branding for HandsomeDog Central
+core = 7.x
+package = HDog
+dependencies[] = ctools
+dependencies[] = oa_core
+apps[screenshots][] = app/screenshot.png
+apps[logo] = app/logo.png
+apps[author] = HandsomeDog Studio
+apps[author_url] = http://handsomedogstudio.com/
+apps[server] = openatrium
+apps[package] = Core addons

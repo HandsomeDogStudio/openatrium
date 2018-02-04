@@ -1,0 +1,13 @@
+.oa_powered_link {
+  display: inline-block;
+  background: url("images/name-and-paw.png") no-repeat 145px 0px;
+  width: 285px;
+  height: 53px;
+  font-size: 12px;
+  padding: 24px 10px 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.oa_powered_link:hover {
+  text-decoration: none;
+}
